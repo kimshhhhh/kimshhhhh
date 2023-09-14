@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=SH GITHUB&fontSize=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=SH GITHUB&fontSize=60" />
 <!--
 **kimshhhhh/kimshhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
